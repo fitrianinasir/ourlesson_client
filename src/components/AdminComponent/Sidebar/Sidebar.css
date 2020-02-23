@@ -1,0 +1,190 @@
+
+/* Position and sizing of burger button */
+/* .bm-burger-button {
+    position: fixed;
+    width: 36px;
+    height: 30px;
+    left: 36px;
+    top: 36px;
+  } */
+  
+  /* Color/shape of burger icon bars */
+  /* .bm-burger-bars {
+    background: #373a47;
+  } */
+  
+  /* Color/shape of burger icon bars on hover*/
+  /* .bm-burger-bars-hover {
+    background: #a90000;
+  }
+   */
+  /* Position and sizing of clickable cross button */
+  .bm-cross-button {
+    height: 24px;
+    width: 24px;
+    background: #313435 !important;
+  }
+  
+  /* Color/shape of close button cross */
+  .bm-cross {
+    background: #bdc3c7;
+  }
+
+  .close-button{
+    font-size: 40px;
+    float:right;
+    margin-top: -12% !important;
+    margin-right: 3rem;
+    color: #313435 !important;
+  }
+  
+  .bm-burger-button button{
+    /* background : #313435 !important; */
+  }
+  /*
+  Sidebar wrapper styles
+  Note: Beware of modifying this element as it can break the animations - you should not need to touch it in most cases
+  */
+  .bm-menu-wrap {
+    position: fixed;
+    margin-left: 40rem !important;
+    margin-top: 6vh;
+    width: 45% !important;
+  }
+  
+  /* General sidebar styles */
+  .bm-menu {
+    background: #FFFFFF !important;
+    /* padding: 2.5em 1.5em 0; */
+    font-size: 1.15em;
+    width: 60% !important;
+    height: 105vh !important;
+    margin-left: -40rem;
+    padding-top: 6rem;
+    margin-top: -8rem;
+    color : #313435;
+  }
+  
+  /* Morph shape necessary with bubble or elastic */
+  .bm-morph-shape {
+    fill: #373a47 !important;
+  }
+  
+  /* Wrapper for item list */
+  .bm-item-list {
+    color: 313435 !important;
+    text-align: left;
+    margin-left:11rem !important;
+  }
+  
+  /* Individual item */
+  /* .bm-item {
+    display: inline-block;
+    color: #313435 !important;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 25px;
+    line-height: 1.5em;
+  } */
+  
+  /* Styling of overlay */
+  .bm-overlay {
+    background: rgba(0, 0, 0, 0.3) !important;
+    height: 120vh !important;
+    margin-top: -3rem !important;
+    width: 130rem !important;
+  }
+
+  .list-options{
+      color: 313435;
+      font-family: 'PT Sans', sans-serif;
+      font-size: 1.3rem;
+      line-height: 1.8em;
+      display: inline-block;
+      text-align: left;
+  }
+  .list-options:hover{
+    color: #313435 !important;
+}
+  .list-options2{
+    color: #313435 !important;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 1.1rem;
+    line-height: 1.8em;
+    display: inline-block;
+    text-align: left;
+    /* margin-left: 8%; */
+}
+.list-options2:hover{
+  color: #313435 !important;
+}
+
+  .sidebar-title{
+    color: #313435 !important;
+    text-align: left;
+    font-size: 1.8rem;
+  }
+
+  .sidebar-menu .title-underline{
+    width: 61% !important;
+    border-bottom: 3px solid #313435  !important ;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+  }
+
+  .logout{
+    font-size: 16px;
+    color: #313435 !important;
+    margin-top: 48vh;
+    text-align: left;
+  }
+  .logout:hover{
+    color: midnightblue;
+    text-decoration: none;
+  }
+
+  .menu-item {
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+    justify-content: center;
+    margin-right: 1rem;
+    display: inline-block !important;
+    text-align: left;
+    margin-top: 2rem;
+    flex-direction: column;
+    color: #313435 !important;
+}
+
+.title-sidebar h1{
+  font-size: 1.5rem !important;
+  color: #313435;
+} 
+
+.home-icon{
+  color : mediumblue;
+  margin-right: 1rem;
+}
+
+.user-icon{
+  color : chocolate;
+  margin-right: 1rem;
+}
+.teacher-icon{
+  color : forestgreen;
+  margin-right: 1rem;
+}
+
+.calendar-icon{
+  color : maroon;
+  margin-right: 1rem;
+}
+
+.book-icon{
+  color: darkcyan;
+  margin-right: 1rem;
+}
+
+.signout-icon{
+  color: darkslategrey;
+  margin-right: 0.5rem;
+}

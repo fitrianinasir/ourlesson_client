@@ -1,0 +1,48 @@
+.table{
+    width: 100% !important;
+    margin:  2rem auto;
+}
+
+.student-button{
+    margin-right: 1rem !important;
+}
+.admin-page-title{
+    /* margin-top: 3rem; */
+    color: black;
+    /* margin-bottom: 1rem; */
+    text-align: left;
+    /* margin-left: 10rem; */
+}
+.add-student{
+    margin-left : -78rem !important;
+}
+
+.search-label{
+    margin-top: 2rem;
+    margin-left: 77rem !important;
+}
+.react-bootstrap-table{
+    margin-top: -2rem;
+}
+
+.admin-body{
+    background-color: #F9FAFB !important;
+    height: 100vh;
+}
+
+.table-body{
+    background-color: white;
+    border: 2px solid #EFEFEF;
+    width: 100rem;
+    margin : auto;
+    border-radius: 1rem;
+    padding: 5rem;
+    margin-top: 3rem;
+}
+
+.table-bordered thead td, .table-bordered thead th{
+    background-color: #4E73DF !important;
+}
+.table td, .table th{
+    padding: .5rem;
+}

@@ -1,0 +1,188 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#0c2347;
+    background-size: cover;
+}
+@media (min-width:320px){
+
+    h1{
+        text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: #aac4ef;
+        margin-top : 45%;
+        position: relative;
+        font-size: 3rem;
+        letter-spacing: 5px;
+    }
+    .box{
+       
+        width: 270px;
+        padding: 30px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background :black;
+        text-align: center;
+        border-radius: 20px;
+        opacity: .8;
+    }
+    
+    .box h1{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color : white;
+        text-transform: uppercase;
+        font-size : 25px;
+        padding-bottom : 30px;
+        margin-top : 20px;
+    }
+    
+    .box .input{
+    
+        border : 0;
+        background: none;
+        display: block;
+        margin: 20px auto;
+        text-align: center;
+        border: 2px solid cadetblue;
+        padding : 14px 10px;
+        width: 240px;
+        outline: none;
+        color : white;
+        border-radius: 24px;
+        transition: 0.25s;
+    
+    }
+    
+    .box input:hover{
+        width: 250px;
+        border-color : coral;
+    
+    }
+    
+    .box .submit{
+        border : 0;
+        background: none;
+        display: block;
+        margin: 20px auto;
+        text-align: center;
+        border: 2px solid rgb(154, 199, 51);
+        padding : 10px;
+        width: 100px;
+        outline: none;
+        color : white;
+        border-radius: 24px;
+        transition: 0.25s;
+        cursor : pointer;
+    }
+    
+    .box .submit:hover{
+        background : tan;
+    }
+    
+
+}
+
+@media (min-width: 968px){
+    h1{
+        text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: #aac4ef;
+        margin-top : 8%;
+        position: relative;
+        font-size: 100px;
+        letter-spacing: 5px;
+    }
+    .box{
+       
+        width: 400px;
+        padding: 30px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background :black;
+        text-align: center;
+        border-radius: 20px;
+        opacity: .8;
+    }
+    
+    .box h1{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color : white;
+        text-transform: uppercase;
+        font-size : 25px;
+        padding-bottom : 30px;
+    }
+    
+    .box .input{
+    
+        border : 0;
+        background: none;
+        display: block;
+        margin: 20px auto;
+        text-align: center;
+        border: 2px solid cadetblue;
+        padding : 14px 10px;
+        width: 300px;
+        outline: none;
+        color : white;
+        border-radius: 24px;
+        transition: 0.25s;
+    
+    }
+    
+    .box input:hover{
+        width: 350px;
+        border-color : coral;
+    
+    }
+    
+    .box .submit{
+        border : 0;
+        background: none;
+        display: block;
+        margin: 20px auto;
+        text-align: center;
+        border: 2px solid rgb(154, 199, 51);
+        padding : 10px;
+        width: 100px;
+        outline: none;
+        color : white;
+        border-radius: 24px;
+        transition: 0.25s;
+        cursor : pointer;
+    }
+    
+    .box .submit:hover{
+        background : tan;
+    }
+    }
+
+
+
+/* INDEX */
+
+.bg-sidebar{
+    background-color: #163466;
+}
+
+.textColor{
+    color : white;
+}
+
+.table-title{
+    font-size: 2.5em;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #09285b;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-weight: bold;
+}
+
+.table-text-color{
+    color : black;
+}
+

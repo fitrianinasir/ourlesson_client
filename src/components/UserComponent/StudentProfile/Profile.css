@@ -1,0 +1,79 @@
+.profile-container{
+    /* background: url('../../asset/ex22.jpg'); */
+    background: #f2f4f7;
+    background-size: cover;
+    height: 100vh;
+}
+
+.profile-part{
+    width:30rem;
+    height: 30rem;
+    border: 5px solid black;
+    float: left;
+    margin-left: 18%;
+    margin-top: 10%;
+    background-color: #f2f4f7;
+}
+
+.picture-style{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 15%;
+}
+
+.profile-name{
+    color: #4E73DF;
+    margin-top: 1rem;
+}
+
+.profile-description{
+    font-size: 1.3rem;
+    color:black;
+    margin-right: 5%;
+}
+
+.description-part{
+    /* position: relative; */
+    margin-top:10%;
+    text-align: left;
+    /* margin-left:10%; */
+    color:black;
+    font-size: 1.2rem;
+}
+
+.description-part p, .description-part .description-head, .description-part hr{
+    margin-left: 60rem;
+}
+
+
+.academy-class{
+    font-size: 3rem;
+    font-weight: bold;
+    color:#2986e3;
+    
+}
+
+.year{
+    font-size: 2rem;
+    color: #4E73DF;
+}
+
+hr{
+    width: 25%;
+    border: 2px solid black;
+    margin-left: 53.5rem;
+}
+
+nav{
+    margin-left: 60%;
+}
+
+nav ul li{
+    display: inline-block;
+    color:black;
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-top: 1.5rem;
+    margin-right: 5rem;
+}

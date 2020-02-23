@@ -1,0 +1,66 @@
+.welcome-text{
+    margin-top: 2rem;
+}
+.login-as-admin{
+    width: 20rem;
+    height:4rem;
+    background-color:#fcb93a;
+    color:white;
+    font-weight:bold;
+    border-radius:5rem;
+    margin-top:1rem;
+    margin-left:1rem;
+}
+
+.login-as-admin :hover{
+    background-color:#2986e3;
+    cursor:pointer;
+    text-decoration:none;
+    border-radius:5rem;
+}
+
+.login-as-admin p{
+    line-height:4rem;
+    color:white;
+    /* text-decoration:none; */
+    
+}
+
+.login-as-student{
+    width: 20rem;
+    height:4rem;
+    background-color:#fcb93a;
+    color:white;
+    font-weight:bold;
+    border-radius:5rem;
+    margin-top:1rem;
+    margin-left:1rem;
+    margin-bottom:3rem;
+}
+.login-as-student :hover{
+    background-color:#2986e3;
+    cursor:pointer;
+    text-decoration:none;
+    border-radius:5rem;
+}
+
+.login-as-student p{
+    line-height:4rem;
+    color:white;
+    text-decoration:none;
+}
+
+.login-box{
+    margin-top:12rem;
+}
+
+.login-box .bg-login-image{
+    background: url('../../asset/ex.jpg');
+    background-position: 0 00px;
+    background-size: cover;
+}
+
+.bg-size{
+    background: url('../../asset/email-pattern.png') !important;
+    background-repeat: repeat-x;
+}

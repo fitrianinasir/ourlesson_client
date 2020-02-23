@@ -1,0 +1,10 @@
+.admin-page{
+    margin-top: 18rem;
+    color: #db8530;
+    font-weight: bold;
+    font-size: 5rem;
+}
+.admin-dashboard{
+    background-color: #F9FAFB !important;
+    height: 100vh;
+}

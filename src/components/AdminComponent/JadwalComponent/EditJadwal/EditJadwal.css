@@ -1,0 +1,19 @@
+
+.form-title{
+    text-align: center;
+    margin-bottom: 5rem;
+    color : black;
+}
+
+.form-group .input-style::-webkit-input-placeholder{
+    font-style: italic;
+    font-size: 12px;
+}
+
+.form-group .invalid-feedback{
+    margin-left: 0rem;
+}
+
+.form-group .valid-feedback{
+    margin-left: 0rem;
+}

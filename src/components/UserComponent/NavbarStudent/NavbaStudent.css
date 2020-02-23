@@ -1,0 +1,21 @@
+
+  .form-page-navbar{
+      background: #FFFFFF !important;
+      padding: 2rem;
+      height: 4rem;
+      margin-left: -10rem;
+      border : 2px solid #EFEFEF;
+  }
+  
+  .form-page-brand{
+    color: #313435 !important;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-size: 1rem;
+      margin-left: 1rem;
+  }
+  
+  .menu-style{
+      width:20px !important;
+      margin-left: 10rem !important;
+      color: #313435 !important;
+  }

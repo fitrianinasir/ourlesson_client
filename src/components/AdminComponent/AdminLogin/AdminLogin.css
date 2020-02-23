@@ -1,0 +1,42 @@
+.bg-size{
+    height: 100vh;
+    /* background:rgba(41, 134, 227); */
+}
+
+/* .container{
+    background:url('../asset/email-pattern.png');
+} */
+.signin-box{
+    margin-top: 12rem;
+    margin-left: -5rem;
+}
+
+.signin-box .btn-login{
+    border-radius: 10rem;
+    padding: 10px;
+    color:black;
+    margin-top: 2rem;
+}
+
+.invalid-feedback{
+    margin-left: -6.2rem !important;
+}
+
+.valid-feedback{
+    margin-left: -8.2rem !important;
+}
+
+.signin-box .bg-signin-image{
+        background: url('../../../asset/ex.jpg');
+        background-position: right;
+        background-size: cover;
+}
+
+.signin-box .signin-input{
+    padding-left: 1rem;
+    border-radius: 10rem;
+    height: 3rem;
+}
+.signin-box .signin-input::-webkit-input-placeholder{
+    font-size: 13px;
+}

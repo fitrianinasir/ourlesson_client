@@ -1,0 +1,47 @@
+.add-admin-body{
+    /* padding : 5rem; */
+    text-align: left;
+    color: black;
+    background-color: #F9FAFB !important;
+    height: 120vh;
+}
+
+.add-form-body{
+    background-color: white;
+    border: 2px solid #EFEFEF;
+    width: 50rem;
+    padding: 5rem;
+    margin: auto;
+    margin-top: 5rem;
+}
+
+.form-title{
+    text-align: center;
+    margin-bottom: 5rem;
+    color : black;
+}
+
+.form-group .input-style::-webkit-input-placeholder{
+    font-style: italic;
+    font-size: 12px;
+}
+
+.form-group .invalid-feedback{
+    margin-left: 0rem;
+}
+
+.form-group .valid-feedback{
+    margin-left: 0rem;
+}
+
+.add-admin-body .valid-feedback{
+    margin-left : 0rem !important;
+}
+
+.add-admin-body .invalid-feedback{
+    margin-left : 0rem !important;
+}
+
+.cancel-button{
+    margin-right : 1rem !important;
+}

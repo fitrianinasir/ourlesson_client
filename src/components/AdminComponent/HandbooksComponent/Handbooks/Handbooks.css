@@ -1,0 +1,25 @@
+.table{
+    width: 75%;
+    margin:  2rem auto;
+}
+
+#Tombol{
+    margin-right: 23cm !important;
+}
+
+.btn-download{
+    margin-right: 1rem;
+}
+
+.table-bordered thead td, .table-bordered thead th{
+    background-color: #0d5fa6;
+    color: white;
+}
+.table-bordered td{
+    /* background-color: aliceblue; */
+    color: black;
+}
+.handbook-page-title{
+    margin-top: 3rem;
+    color: black;
+}
