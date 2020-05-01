@@ -33,6 +33,7 @@ class SignIn extends Component{
         type: "error",
         button: true
       })
+      console.log(err)
     })
     // alert(JSON.stringify(formData, null, 2));
 }
