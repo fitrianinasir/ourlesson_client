@@ -1,6 +1,5 @@
 import React, {Component} from 'react'
 import { ValidationForm, TextInput} from "react-bootstrap4-form-validation";
-import {Link} from 'react-router-dom'
 import axios from 'axios'
 import swal from 'sweetalert';
 import './EditHandbook.css'
@@ -104,7 +103,7 @@ class EditHandbook extends Component{
   }
 
   render(){
-      let {title, file} = this.state
+      let {title} = this.state
     return(
       <div className="edit-handbook-body">
         <h1 className="form-title text-left">EDIT HANDBOOK</h1>

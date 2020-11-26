@@ -4,7 +4,6 @@ import {Link} from 'react-router-dom'
 import axios from 'axios'
 import { FontAwesomeIcon} from '@fortawesome/react-fontawesome'
 import { faAngleLeft, faHome, faUserGraduate, faChalkboardTeacher, faCalendar, faBook, faSignOutAlt} from '@fortawesome/free-solid-svg-icons'
-import close from '../../../asset/left-arrow.svg'
 import './SidebarStudent.css'
 class Sidebar extends React.Component {
   constructor(props){

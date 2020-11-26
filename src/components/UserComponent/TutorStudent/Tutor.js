@@ -1,5 +1,4 @@
 import React from 'react';
-import {Table} from 'react-bootstrap';
 import ToolkitProvider, { Search } from 'react-bootstrap-table2-toolkit';
 import BootstrapTable from 'react-bootstrap-table-next'
 import NavbarStudent from '../NavbarStudent/NavbarStudent'

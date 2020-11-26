@@ -1,5 +1,4 @@
 import React, {Component} from 'react'
-import Image from '../../asset/profile-ex.jpg'
 import {Link} from 'react-router-dom'
 import './LandingPage.css'
 

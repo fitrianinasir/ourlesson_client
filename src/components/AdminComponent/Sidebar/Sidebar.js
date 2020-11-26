@@ -1,6 +1,5 @@
 import React from 'react'
 import { push as Menu } from 'react-burger-menu'
-import close from '../../../asset/left-arrow.svg'
 import {Link} from 'react-router-dom'
 import axios from 'axios'
 import { FontAwesomeIcon} from '@fortawesome/react-fontawesome'

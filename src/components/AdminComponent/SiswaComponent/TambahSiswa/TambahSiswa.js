@@ -1,7 +1,7 @@
 import React, {Component} from 'react'
 import Navbar from '../../Navbar/Navbar'
 import { ValidationForm, TextInput} from "react-bootstrap4-form-validation";
-import axios, { post } from 'axios'
+import axios from 'axios'
 import swal from 'sweetalert';
 import './TambahSiswa.css'
 

@@ -1,6 +1,5 @@
 import React, {Component} from 'react'
 import { ValidationForm, TextInput} from "react-bootstrap4-form-validation";
-import {Link} from 'react-router-dom'
 import axios from 'axios'
 import swal from 'sweetalert';
 import Navbar from '../../Navbar/Navbar'

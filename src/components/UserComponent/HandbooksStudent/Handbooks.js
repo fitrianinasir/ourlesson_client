@@ -5,7 +5,6 @@ import ToolkitProvider, { Search } from 'react-bootstrap-table2-toolkit';
 import BootstrapTable from 'react-bootstrap-table-next'
 import { FontAwesomeIcon} from '@fortawesome/react-fontawesome'
 import { faDownload} from '@fortawesome/free-solid-svg-icons'
-import {Link} from 'react-router-dom'
 import axios from 'axios'
 import './Handbooks.css'
 

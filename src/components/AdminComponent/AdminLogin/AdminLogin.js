@@ -1,5 +1,4 @@
 import React, {Component} from 'react'
-import {Link} from 'react-router-dom'
 import { ValidationForm, TextInput} from "react-bootstrap4-form-validation";
 import './AdminLogin.css'
 import swal from 'sweetalert';
